@@ -443,7 +443,7 @@ body {
 
 .bonus {
   top: 770px;
-  left: -21px;
+  left: -7px;
   width: 1000px;
   height: 125px;
   position: absolute;
@@ -451,6 +451,7 @@ body {
   -webkit-transform: scale(0.6);
   -ms-transform: scale(0.6);
   transform: scale(0.6);
+  background-repeat: no-repeat;
 }
 
 .line {
@@ -807,6 +808,6 @@ body {
 }
 
 .addBorder {
-  border: 1px solid #ffea665c;
+  /* border: 1px solid #ffea665c; */
   border-radius: 5px;
 }
